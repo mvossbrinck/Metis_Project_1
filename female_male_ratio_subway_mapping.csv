@@ -1,0 +1,315 @@
+station_id,Stop Name,zipcode,female_male_ratio
+393.0,116 St,10037,1.42
+396.0,96 St,10037,1.42
+398.0,77 St,10037,1.42
+400.0,59 St,10037,1.42
+401.0,51 St,10037,1.42
+437.0,145 St,10037,1.42
+438.0,135 St,10037,1.42
+440.0,116 St,10037,1.42
+465.0,Grand Central-42 St,10037,1.42
+223.0,Lexington Av/63 St,10021,1.28
+477.0,72 St,10021,1.28
+151.0,145 St,10039,1.27
+151.0,145 St,10039,1.27
+220.0,155 St,10039,1.27
+436.0,Harlem-148 St,10039,1.27
+,,10162,1.22
+397.0,86 St,10028,1.21
+476.0,86 St,10028,1.21
+402.0,Grand Central-42 St,10017,1.21
+469.0,Grand Central-42 St,10017,1.21
+475.0,96 St,10128,1.2
+7.0,Lexington Av/59 St,10022,1.19
+275.0,Lexington Av/53 St,10022,1.19
+276.0,5 Av/53 St,10022,1.19
+,,10030,1.19
+14.0,23 St,10010,1.19
+405.0,23 St,10010,1.19
+106.0,Fulton St,10038,1.18
+172.0,Fulton St,10038,1.18
+332.0,Fulton St,10038,1.18
+144.0,Dyckman St,10040,1.16
+145.0,190 St,10040,1.16
+146.0,181 St,10040,1.16
+149.0,163 St-Amsterdam Av,10040,1.16
+150.0,155 St,10040,1.16
+152.0,135 St,10040,1.16
+153.0,125 St,10040,1.16
+299.0,Dyckman St,10040,1.16
+300.0,191 St,10040,1.16
+394.0,110 St,10029,1.15
+395.0,103 St,10029,1.15
+157.0,96 St,10025,1.14
+308.0,Cathedral Pkwy (110 St),10025,1.14
+309.0,103 St,10025,1.14
+310.0,96 St,10025,1.14
+143.0,Inwood-207 St,10034,1.14
+297.0,215 St,10034,1.14
+298.0,207 St,10034,1.14
+314.0,66 St-Lincoln Center,10034,1.14
+403.0,33 St,10016,1.14
+404.0,28 St,10016,1.14
+119.0,1 Av,10009,1.14
+158.0,86 St,10024,1.14
+159.0,81 St-Museum of Natural History,10024,1.14
+311.0,86 St,10024,1.14
+312.0,79 St,10024,1.14
+,,10023,1.13
+,,10069,1.13
+154.0,116 St,10026,1.12
+155.0,Cathedral Pkwy (110 St),10026,1.12
+441.0,Central Park North (110 St),10026,1.12
+222.0,Roosevelt Island,10044,1.11
+306.0,125 St,10027,1.1
+307.0,116 St-Columbia University,10027,1.1
+439.0,125 St,10027,1.1
+303.0,157 St,10032,1.09
+13.0,28 St,10001,1.08
+164.0,34 St-Penn Station,10001,1.08
+319.0,28 St,10001,1.08
+321.0,18 St,10001,1.08
+322.0,14 St,10001,1.08
+148.0,168 St,10031,1.07
+302.0,168 St-Washington Hts,10031,1.07
+304.0,145 St,10031,1.07
+305.0,137 St-City College,10031,1.07
+15.0,14 St-Union Sq,10003,1.06
+16.0,8 St-NYU,10003,1.06
+17.0,Prince St,10003,1.06
+18.0,Canal St,10003,1.06
+20.0,City Hall,10003,1.06
+117.0,14 St-Union Sq.,10003,1.06
+118.0,3 Av,10003,1.06
+406.0,14 St-Union Sq,10003,1.06
+407.0,Astor Pl,10003,1.06
+412.0,Fulton St,10003,1.06
+413.0,Wall St,10003,1.06
+414.0,Bowling Green,10003,1.06
+147.0,175 St,10033,1.06
+301.0,181 St,10033,1.06
+102.0,Delancey St-Essex St,10002,1.02
+103.0,Bowery,10002,1.02
+230.0,Broadway-Lafayette St,10002,1.02
+231.0,Grand St,10002,1.02
+232.0,2 Av,10002,1.02
+233.0,Delancey St-Essex St,10002,1.02
+234.0,East Broadway,10002,1.02
+392.0,125 St,10035,1.02
+168.0,Spring St,10012,1.0
+327.0,Chambers St,10012,1.0
+,,10280,0.99
+9.0,57 St-7 Av,10019,0.98
+10.0,49 St,10019,0.98
+12.0,34 St-Herald Sq,10019,0.98
+116.0,6 Av,10019,0.98
+161.0,59 St-Columbus Circle,10019,0.98
+162.0,50 St,10019,0.98
+167.0,W 4 St-Wash Sq,10019,0.98
+167.0,W 4 St-Wash Sq,10019,0.98
+169.0,Canal St,10019,0.98
+224.0,57 St,10019,0.98
+225.0,47-50 Sts-Rockefeller Ctr,10019,0.98
+226.0,42 St-Bryant Pk,10019,0.98
+227.0,34 St-Herald Sq,10019,0.98
+277.0,7 Av,10019,0.98
+315.0,59 St-Columbus Circle,10019,0.98
+19.0,Canal St,10013,0.95
+104.0,Canal St,10013,0.95
+326.0,Franklin St,10013,0.95
+410.0,Canal St,10013,0.95
+21.0,Cortlandt St,10014,0.94
+170.0,Chambers St,10014,0.94
+171.0,World Trade Center,10014,0.94
+323.0,Christopher St-Sheridan Sq,10014,0.94
+324.0,Houston St,10014,0.94
+325.0,Canal St,10014,0.94
+331.0,Park Place,10014,0.94
+165.0,23 St,10011,0.93
+166.0,14 St,10011,0.93
+228.0,23 St,10011,0.93
+229.0,14 St,10011,0.93
+320.0,23 St,10011,0.93
+,,10282,0.92
+318.0,34 St-Penn Station,10018,0.8
+,,10165,0.75
+11.0,Times Sq-42 St,10036,0.74
+163.0,42 St-Port Authority Bus Terminal,10036,0.74
+317.0,Times Sq-42 St,10036,0.74
+466.0,5 Av,10036,0.74
+467.0,Times Sq-42 St,10036,0.74
+468.0,Times Sq-42 St,10036,0.74
+23.0,Whitehall St-South Ferry,10004,0.73
+107.0,Broad St,10004,0.73
+330.0,South Ferry,10004,0.73
+22.0,Rector St,10006,0.67
+329.0,Rector St,10006,0.67
+333.0,Wall St,10005,0.67
+328.0,WTC Cortlandt,10007,0.59
+,,10020,0.0
+,,11239,1.4
+346.0,Sutter Av-Rutland Rd,11212,1.31
+141.0,Park Pl,11233,1.3
+182.0,Ralph Av,11233,1.3
+183.0,Rockaway Av,11233,1.3
+42.0,Prospect Park,11225,1.27
+342.0,Franklin Avenue-Medgar Evers College,11225,1.27
+343.0,Nostrand Av,11225,1.27
+353.0,President Street-Medgar Evers College,11225,1.27
+354.0,Sterling St,11225,1.27
+355.0,Winthrop St,11225,1.27
+142.0,Botanic Garden,11213,1.26
+339.0,Bergen St,11213,1.26
+344.0,Kingston Av,11213,1.26
+345.0,Crown Hts-Utica Av,11213,1.26
+,,11203,1.26
+137.0,East 105 St,11236,1.24
+138.0,Canarsie-Rockaway Pkwy,11236,1.24
+45.0,Beverley Rd,11226,1.24
+46.0,Cortelyou Rd,11226,1.24
+47.0,Newkirk Plaza,11226,1.24
+356.0,Church Av,11226,1.24
+357.0,Beverly Rd,11226,1.24
+90.0,Van Siclen Av,11207,1.23
+91.0,Alabama Av,11207,1.23
+92.0,Broadway Junction,11207,1.23
+93.0,Chauncey St,11207,1.23
+94.0,Halsey St,11207,1.23
+95.0,Gates Av,11207,1.23
+96.0,Kosciuszko St,11207,1.23
+99.0,Lorimer St,11207,1.23
+123.0,Grand St,11207,1.23
+130.0,Wilson Av,11207,1.23
+131.0,Bushwick Av-Aberdeen St,11207,1.23
+132.0,Broadway Junction,11207,1.23
+133.0,Atlantic Av,11207,1.23
+134.0,Sutter Av,11207,1.23
+135.0,Livonia Av,11207,1.23
+136.0,New Lots Av,11207,1.23
+176.0,Lafayette Av,11207,1.23
+177.0,Clinton-Washington Avs,11207,1.23
+180.0,Kingston-Throop Avs,11207,1.23
+181.0,Utica Av,11207,1.23
+184.0,Broadway Junction,11207,1.23
+185.0,Liberty Av,11207,1.23
+186.0,Van Siclen Av,11207,1.23
+187.0,Shepherd Av,11207,1.23
+336.0,Hoyt St,11207,1.23
+347.0,Saratoga Av,11207,1.23
+348.0,Rockaway Av,11207,1.23
+349.0,Junius St,11207,1.23
+350.0,Pennsylvania Av,11207,1.23
+351.0,Van Siclen Av,11207,1.23
+352.0,New Lots Av,11207,1.23
+415.0,Borough Hall,11207,1.23
+57.0,W 8 St-NY Aquarium,11224,1.22
+58.0,Coney Island-Stillwell Av,11224,1.22
+70.0,Bay 50 St,11224,1.22
+139.0,Franklin Av,11216,1.2
+179.0,Nostrand Av,11216,1.2
+288.0,Myrtle-Willoughby Avs,11216,1.2
+289.0,Bedford-Nostrand Avs,11221,1.17
+290.0,Classon Av,11221,1.17
+291.0,Clinton-Washington Avs,11221,1.17
+292.0,Fulton St,11221,1.17
+,,11210,1.17
+178.0,Franklin Av,11238,1.16
+341.0,Eastern Pkwy-Brooklyn Museum,11238,1.16
+,,11205,1.16
+98.0,Flushing Av,11206,1.16
+124.0,Montrose Av,11206,1.16
+125.0,Morgan Av,11206,1.16
+236.0,Bergen St,11231,1.15
+237.0,Carroll St,11231,1.15
+49.0,Avenue J,11234,1.15
+51.0,Kings Hwy,11234,1.15
+359.0,Flatbush Av-Brooklyn College,11234,1.15
+86.0,Cypress Hills,11208,1.12
+87.0,Crescent St,11208,1.12
+88.0,Norwood Av,11208,1.12
+89.0,Cleveland St,11208,1.12
+188.0,Euclid Av,11208,1.12
+189.0,Grant Av,11208,1.12
+50.0,Avenue M,11229,1.11
+,,11228,1.1
+44.0,Church Av,11235,1.09
+52.0,Avenue U,11235,1.09
+53.0,Neck Rd,11235,1.09
+54.0,Sheepshead Bay,11235,1.09
+55.0,Brighton Beach,11235,1.09
+56.0,Ocean Pkwy,11235,1.09
+358.0,Newkirk Av,11235,1.09
+30.0,Prospect Av,11215,1.09
+238.0,Smith-9 Sts,11215,1.09
+239.0,4 Av-9 St,11215,1.09
+240.0,7 Av,11215,1.09
+241.0,15 St-Prospect Park,11215,1.09
+62.0,55 St,11214,1.09
+63.0,62 St,11214,1.09
+64.0,71 St,11214,1.09
+65.0,79 St,11214,1.09
+66.0,18 Av,11214,1.09
+68.0,Bay Pkwy,11214,1.09
+69.0,25 Av,11214,1.09
+29.0,4 Av-9 St,11209,1.09
+32.0,36 St,11209,1.09
+36.0,Bay Ridge Av,11209,1.09
+37.0,77 St,11209,1.09
+38.0,86 St,11209,1.09
+39.0,Bay Ridge-95 St,11209,1.09
+67.0,20 Av,11223,1.09
+76.0,Bay Pkwy,11223,1.09
+77.0,Kings Hwy,11223,1.09
+78.0,Avenue U,11223,1.09
+79.0,86 St,11223,1.09
+243.0,Church Av,11223,1.09
+244.0,Ditmas Av,11223,1.09
+245.0,18 Av,11223,1.09
+246.0,Avenue I,11223,1.09
+247.0,Bay Pkwy,11223,1.09
+248.0,Avenue N,11223,1.09
+249.0,Avenue P,11223,1.09
+250.0,Kings Hwy,11223,1.09
+251.0,Avenue U,11223,1.09
+252.0,Avenue X,11223,1.09
+27.0,Atlantic Av-Barclays Ctr,11217,1.08
+28.0,Union St,11217,1.08
+40.0,Atlantic Av-Barclays Ctr,11217,1.08
+41.0,7 Av,11217,1.08
+175.0,Hoyt-Schermerhorn Sts,11217,1.08
+337.0,Nevins St,11217,1.08
+340.0,Grand Army Plaza,11217,1.08
+35.0,59 St,11204,1.06
+72.0,Fort Hamilton Pkwy,11204,1.06
+73.0,New Utrecht Av,11204,1.06
+74.0,18 Av,11204,1.06
+75.0,20 Av,11204,1.06
+48.0,Avenue H,11230,1.05
+242.0,Fort Hamilton Pkwy,11218,1.03
+100.0,Hewes St,11211,1.03
+101.0,Marcy Av,11211,1.03
+120.0,Bedford Av,11211,1.03
+122.0,Graham Av,11211,1.03
+286.0,Broadway,11211,1.03
+287.0,Flushing Av,11211,1.03
+97.0,Myrtle Av,11237,1.02
+112.0,Myrtle-Wyckoff Avs,11237,1.02
+113.0,Knickerbocker Av,11237,1.02
+114.0,Central Av,11237,1.02
+60.0,Fort Hamilton Pkwy,11219,1.02
+61.0,50 St,11219,1.02
+33.0,45 St,11220,1.01
+34.0,53 St,11220,1.01
+59.0,9 Av,11220,1.01
+71.0,8 Av,11220,1.01
+121.0,Lorimer St,11222,0.98
+283.0,Greenpoint Av,11222,0.98
+284.0,Nassau Av,11222,0.98
+285.0,Metropolitan Av,11222,0.98
+24.0,Court St,11201,0.98
+25.0,Jay St-MetroTech,11201,0.98
+26.0,DeKalb Av,11201,0.98
+235.0,York St,11201,0.98
+334.0,Clark St,11201,0.98
+335.0,Borough Hall,11201,0.98
+31.0,25 St,11232,0.89
