@@ -12,6 +12,8 @@
 ##### **nyc-rolling-sales.txt**: Data from the listed source imported into a txt file for a year of NYC home sales.
 ##### **zip_code_to_median_sales**: Map between zip code and median house sale prices.
 ##### **female_male_ratio_subway_mapping**: Female/Male ratio to subway station name mapping.
+## PDF File:
+##### Final_Presentation_Optimizing_Street_Team_Placement_Metis.pdf: Final presentation for this analysis.
 
 ## Data Sources
 ##### MTA Subway Traffic and location data:
