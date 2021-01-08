@@ -9,6 +9,7 @@
 ##### **female-male-ratio-data.ipynb**: Importing census data for female/male ratio, cleaning, and exporting.
 ##### **wealth-analysis.ipynb**: Importing house sales the year of 2017 and exporting a zip code to median sales price mapping file.
 ## CSV Files:
+##### **female_male_ratio-NYC.csv**: Imported female/male ratio census data by zipcode.
 ##### **nyc-rolling-sales.txt**: Data from the listed source imported into a txt file for a year of NYC home sales.
 ##### **zip_code_to_median_sales**: Map between zip code and median house sale prices.
 ##### **female_male_ratio_subway_mapping**: Female/Male ratio to subway station name mapping.
